@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+/*html							{ font-family: "Lucida Sans Unicode"; font-size: 14px; line-height: 21px; color: #f1f1f1; background: #fff; }*/
+body							{  }
+p								{ color: #616161; }
+/*a								{ color: #f1f1f1; }*/
+img.tTip						{ margin: 8px 15px 8px 0px; float: center; }
+h1								{ text-align: center; line-height: 15px; padding: 0px 0px 20px 0px; letter-spacing: -2px; }
+h1.massive						{ font-size: 72px; line-height: 10px; padding: 0px; letter-spacing: -6px; color: #f4c20a; }
+/*#demo_wrapper					{ width: 600px; margin: 30px auto 0px auto; }*/
+#demo_wrapper					{ text-align:center}
+
+.lightTip						{  }
+.lightTip .content				{ width: 310px; padding: 10px; border: 6px solid #e2e2e2; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #ffffff; color: #020202; }
+.lightTip .bottom				{ height: 14px; background: url(/SexyImages/Link/notch-dark.png) top center no-repeat; }
+
+.yellowTip						{  }
+.yellowTip .content				{ width: 310px; padding: 10px; border: 6px solid #f9e98e; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #fbf7aa; color: #020202; }
+.yellowTip .bottom				{ height: 14px; background: url(/SexyImages/Link/notch-yellow.png) top center no-repeat; }
+
+.orangeTip						{  }
+.orangeTip .content				{ width: 310px; padding: 10px; border: 6px solid #f9cd8e; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #fbe3aa; color: #020202; }
+.orangeTip .bottom				{ height: 14px; background: url(/SexyImages/Link/notch-orange.png) top center no-repeat; }
+
+.redTip							{  }
+.redTip .content				{ width: 310px; padding: 10px; border: 6px solid #ce6f6f; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #f79992; color: #020202; }
+.redTip .bottom					{ height: 14px; background: url(/SexyImages/Link/notch-red.png) top center no-repeat; }
+
+.greenTip						{  }
+.greenTip .content				{ width: 310px; padding: 10px; border: 6px solid #a9db66; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #cae8a2; color: #020202; }
+.greenTip .bottom				{ height: 14px; background: url(/SexyImages/Link/notch-green.png) top center no-repeat; }
+
+.blueTip						{  }
+.blueTip .content				{ width: 310px; padding: 10px; border: 6px solid #36a4d9; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #90d8f0; color: #020202; }
+.blueTip .bottom				{ height: 14px; background: url(/SexyImages/Link/notch-blue.png) top center no-repeat; }
+
+.purpleTip						{  }
+.purpleTip .content				{ width: 310px; padding: 10px; border: 6px solid #8671de; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #a290f0; color: #020202; }
+.purpleTip .bottom				{ height: 14px; background: url(/SexyImages/Link/notch-purple.png) top center no-repeat; }
+
+.darkTip						{  }
+.darkTip .content				{ width: 310px; padding: 10px; border: 6px solid #303030; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #505050; color: #f8f8f8; }
+.darkTip .bottom				{ height: 14px; background: url(/SexyImages/Link/notch-dark.png) top center no-repeat; }
+
+
+.blackTip						{  }
+.blackTip .contentTip				{		
+	 padding: 5px 13px 6px; 
+	 border: 0px solid #303030; 
+	 -moz-border-radius: 10px; 
+	 -webkit-border-radius: 10px;
+	 border-radius: 10px; 
+	 background: #6C6B6F; 
+	 /*color: #C0DEED;*/
+	 color: white;
+	 font-size: 12px;
+	 font-family:Tahoma, Geneva, sans-serif;	 
+	 text-align:center;	 
+	 margin-left:20px;
+	 /* 
+	 filter:alpha(opacity=80);
+	-moz-opacity:0.6;
+	-khtml-opacity: 0.6;
+	opacity: 0.6;
+	margin-bottom: 0px;*/	
+	}
+.blackTip .bottom				{ height: 4px; background: url(../images/black.png) top center no-repeat; margin-bottom: 10px; }
+
